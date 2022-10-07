@@ -1,4 +1,3 @@
-# cod324e589150f02feff7d72b
 
 Quick start:
 
